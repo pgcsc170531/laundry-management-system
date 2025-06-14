@@ -46,6 +46,8 @@ $login_name = $loginData->fullname;
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/dataTables.bootstrap5.min.css">
     <!-- Custom CSS -->
     <link href="<?=base_url()?>assets/css/yuba-dashboard.css" rel="stylesheet">
+    <!-- Tailwind CSS CDN for prototyping -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.4.1/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body>
     <div class="wrapper">
